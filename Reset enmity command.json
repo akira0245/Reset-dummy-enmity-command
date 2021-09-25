@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Reset enmity command",
+  "Author": "akira0245",
+  "Punchline": "Add a reset striking dummy enmity command.",
+  "Description": "Add a reset striking dummy enmity command.",
+  "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+  "Tags": [
+    "akira",
+    "striking",
+    "battle",
+    "train"
+  ],
+  "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png"
+}
