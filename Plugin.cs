@@ -69,7 +69,7 @@ namespace ResetEnmityCommand
 
 					for (var i = 0; i < addon->EnemyCount; i++)
 					{
-						var enemyObjectId = numArray->IntArray[8 + i * 5];
+						var enemyObjectId = numArray->IntArray[8 + i * 6];
 						var enemyChara = CharacterManager.Instance()->LookupBattleCharaByObjectId(enemyObjectId);
 						if (enemyChara is null) continue;
 						if (enemyChara->Character.NameID == 541) ResetEnmity(enemyObjectId);
